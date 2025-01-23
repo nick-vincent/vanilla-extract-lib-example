@@ -2,6 +2,8 @@ import { Button } from '../../../design-system/dist/index';
 import { redThemeClass } from '../../../design-system/dist/index';
 import { greenThemeClass } from './page.css';
 
+import '../../../design-system/dist/style.css';
+
 export default function Home() {
   return (
     <div>

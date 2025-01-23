@@ -1,4 +1,4 @@
-"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});require('./index.css');const _t=require("@vanilla-extract/css");var Vr={exports:{}},Xe={},mr={exports:{}},m={};/**
+"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});const _t=require("@vanilla-extract/css");var Vr={exports:{}},Xe={},mr={exports:{}},m={};/**
  * @license React
  * react.production.min.js
  *

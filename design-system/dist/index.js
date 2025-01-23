@@ -1,5 +1,5 @@
 import { createGlobalThemeContract as Vt, createTheme as Ut } from "@vanilla-extract/css";
-import './index.css';var Vr = { exports: {} }, Xe = {}, mr = { exports: {} }, m = {};
+var Vr = { exports: {} }, Xe = {}, mr = { exports: {} }, m = {};
 /**
  * @license React
  * react.production.min.js
