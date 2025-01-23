@@ -13,5 +13,8 @@ export default defineConfig({
       name: 'Test',
     },
     sourcemap: true,
+    rollupOptions: {
+      external: ['@vanilla-extract/css'],
+    }  
   },
 });
